@@ -1,0 +1,13 @@
+//
+//  NetworkController.m
+//  YSANames
+//
+//  Created by Ryan Allred on 12/26/14.
+//  Copyright (c) 2014 Ryan Allred. All rights reserved.
+//
+
+#import "NetworkController.h"
+
+@implementation NetworkController
+
+@end

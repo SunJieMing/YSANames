@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84F3EEDB-6419-4379-963D-44BC76AF0CBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YSANames</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>103A78D65EE690927D9FC1A89C00D1CED20C0793</key>
+		<string>https://github.com/ryanleeallred/limpanasriphong.git</string>
+		<key>4978EEDF29533116DF2C53663242B1F498619F5F</key>
+		<string>http://github.com/ryanleeallred/YSANames.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YSANames.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>103A78D65EE690927D9FC1A89C00D1CED20C0793</key>
+		<string>../../..</string>
+		<key>4978EEDF29533116DF2C53663242B1F498619F5F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://github.com/ryanleeallred/YSANames.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4978EEDF29533116DF2C53663242B1F498619F5F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>103A78D65EE690927D9FC1A89C00D1CED20C0793</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4978EEDF29533116DF2C53663242B1F498619F5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YSANames</string>
+		</dict>
+	</array>
+</dict>
+</plist>
